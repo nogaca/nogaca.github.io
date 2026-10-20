@@ -16,7 +16,7 @@ body {
   color: var(--ink);
   font-family: 'DM Sans', sans-serif;
   font-size: 18px;
-  line-height: 1.7;
+  line-height: 1.5;
 }
 
 main {
@@ -37,9 +37,9 @@ h1 {
 }
 
 h2 {
-  font-size: 38px;
-  margin-top: 80px;
-  margin-bottom: 25px;
+  font-size: 36px;
+  margin-top: 48px;
+  margin-bottom: 16px;
 }
 
 h2:nth-of-type(odd) {
@@ -52,7 +52,8 @@ h2:nth-of-type(even) {
 
 p {
   max-width: 750px;
-  margin-bottom: 20px;
+  margin-top: 0;
+  margin-bottom: 12px;
 }
 
 a {
