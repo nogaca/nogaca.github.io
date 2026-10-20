@@ -26,7 +26,6 @@ My research focuses on understanding how these proteins work, how they respond t
 To study these proteins, I use cryo-electron microscopy (cryo-EM), a technique that allows us to visualize their structures at near-atomic resolution.
 
 ![Microbial rhodopsins, cryo-EM and protein expression](/images/sience.png)
-
 ## BEYOND THE LAB
 
 When I'm not in the lab, you'll probably find me hanging off a rock somewhere.
