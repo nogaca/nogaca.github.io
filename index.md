@@ -11,9 +11,15 @@ title: Noga's Page
 
 I'm a PhD student in [Prof. Moran Shalev-Benami's lab](https://www.weizmann.ac.il/csb/shalev-benami/) at the Weizmann Institute of Science.
 
+My scientific journey started with a B.Sc. in Marine Biotechnology at Ruppin Academic Center. 
+
+I then completed my M.Sc. in [Dr. Ariel Afek's lab](https://www.weizmann.ac.il/csb/Afek/) at the Weizmann Institute of Science, where I studied MutS, a repair protein involved in DNA mismatch damage.
+
+Along the way, I moved from studying DNA repair to exploring light-sensitive membrane proteins.
+
 ## THE SCIENCE SIDE
 
-I study microbial rhodopsins, a family of light-sensitive proteins.
+I study microbial rhodopsins, a family of light-sensitive proteins found in microorganisms.
 
 My research focuses on understanding how these proteins work, how they respond to light, and how their structure relates to their function.
 
