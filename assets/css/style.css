@@ -83,3 +83,11 @@ strong {
     font-size: 30px;
   }
 }
+
+main img {
+  display: block;
+  width: 75%;
+  max-width: 650px;
+  height: auto;
+  margin: 30px auto;
+}
